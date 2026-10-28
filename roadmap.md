@@ -1,0 +1,4 @@
+- [ ] Finish admin-only setup and project/account role assignment.
+- [ ] Verify registration, admin sign-in, and member project isolation.
+- [ ] Add admin module assignments and member account creation with name, email and password.
+- [ ] Add signed-in member password changes.
